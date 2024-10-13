@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  background: #DBE2EF;
+  background: #064635;
 }
 body {
   align-items: center;
@@ -18,7 +18,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #112D4E;
+  background: #064635;
 }
 .bear {
   width: 100%;
